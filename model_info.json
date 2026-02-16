@@ -1,0 +1,19 @@
+{
+  "algorithm": "Extra Trees",
+  "accuracy": "93.64%",
+  "n_samples": 1650,
+  "n_features": 24,
+  "departments": [
+    "BA English",
+    "BBA",
+    "BCom",
+    "CSE",
+    "Civil",
+    "ECE",
+    "EEE",
+    "MBBS",
+    "Mechanical",
+    "Nursing",
+    "Pharmacy"
+  ]
+}
